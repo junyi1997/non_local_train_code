@@ -1,0 +1,9 @@
+Training
+MNIST
+
+python main.py --is_training=True --is_testing=False
+
+
+Testing
+MNIST
+python main.py --is_training=False --is_testing=True
