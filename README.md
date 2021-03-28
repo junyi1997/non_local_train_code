@@ -2,6 +2,8 @@
 
 Ref：https://github.com/nnUyi/Non-Local_Nets-Tensorflow
 
+Change：Requirements change and debug to use in colab
+
 Requirements：
 
     python == 3.6
