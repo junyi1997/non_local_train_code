@@ -15,3 +15,6 @@ Requirements：
     tqdm
 
     pickle_mixin
+    
+colab code：
+    https://colab.research.google.com/drive/1NZXXiACbzqTzhVTWdoCnfvxj6IBRYho8?usp=sharing
